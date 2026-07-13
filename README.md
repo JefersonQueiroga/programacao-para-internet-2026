@@ -9,7 +9,10 @@ Aqui você encontra os links de todos os projetos desenvolvidos na disciplina, m
 
 | # | Projeto | Descrição | Tecnologias | Repositório | Demo |
 |---|---------|-----------|-------------|-------------|------|
-| 1 | Calculadora | Calculadora desenvolvida na disciplina | React 19, Vite | [pi-projeto-calculadora](https://github.com/JefersonQueiroga/pi-projeto-calculadora) | — |
+| 1 | Projeto inicial | Primeiro projeto React da disciplina — estrutura básica | React 19, Vite | [projeto-inicial-react](https://github.com/JefersonQueiroga/projeto-inicial-react) | — |
+| 2 | Hooks: useState | Exemplos de estado com o hook useState | React 19, Vite, react-icons | [pi-hooks-use-state](https://github.com/JefersonQueiroga/pi-hooks-use-state) | — |
+| 3 | Calculadora | Calculadora desenvolvida na disciplina | React 19, Vite | [pi-projeto-calculadora](https://github.com/JefersonQueiroga/pi-projeto-calculadora) | — |
+| 4 | Formulário | Projeto de formulário em React | React 19, Vite | [pi-form-reactnative](https://github.com/JefersonQueiroga/pi-form-reactnative) | — |
 
 <!-- Copie a linha acima para adicionar novos projetos -->
 
