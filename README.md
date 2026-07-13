@@ -9,8 +9,7 @@ Aqui você encontra os links de todos os projetos desenvolvidos na disciplina, m
 
 | # | Projeto | Descrição | Tecnologias | Repositório | Demo |
 |---|---------|-----------|-------------|-------------|------|
-| 1 | _exemplo: Todo App_ | _App de tarefas com hooks e localStorage_ | React, Vite | [link](#) | [ver](#) |
-| 2 | — | — | — | — | — |
+| 1 | Calculadora | Calculadora desenvolvida na disciplina | React 19, Vite | [pi-projeto-calculadora](https://github.com/JefersonQueiroga/pi-projeto-calculadora) | — |
 
 <!-- Copie a linha acima para adicionar novos projetos -->
 
